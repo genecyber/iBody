@@ -1,0 +1,14 @@
+{
+  "name": "ibody",
+  "version": "1.0.0",
+  "description": "Autonomous BC model for IoT",
+  "main": "spec.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vows": "^0.8.1"
+  }
+}
