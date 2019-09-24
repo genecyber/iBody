@@ -3,7 +3,7 @@ var vows = require('vows'),
     assert = require('assert')
 
 /* Executive Summary
-    Description of a system for automous decentralized computation
+    Description of a system for autonomous decentralized computation
     using a Goal based Coopetition approach.
     Time is used to measure goal success and effectiveness
     NRG is a base token with an actual cost.
